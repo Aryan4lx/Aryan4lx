@@ -1,6 +1,6 @@
 ### Hi there 👋
 <p align=”center”>
-<img src=”https://github.com/Aryan4lx/Aryan4lx/assets/57567000/c768acee-f8f1-450f-a293-230f17b99b52" alt=”my banner”>
+<img src=”https://github.com/Aryan4lx/Aryan4lx/assets/57567000/c768acee-f8f1-450f-a293-230f17b99b52.jpg" alt=”my banner”>
 </p>
 <!--
 **Aryan4lx/Aryan4lx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

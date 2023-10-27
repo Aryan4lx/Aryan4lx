@@ -1,5 +1,5 @@
 
-# Hi, I'm [Aryan] 👋
+# Hi, I'm Aryan 👋
 #### Self-taught Red Teamer | Bug Bounty Hunter | Ethical Hacker | Full Stack Developer
 
 
@@ -28,15 +28,31 @@
 
 <!-- About Me -->
 ### About Me
-I'm a passionate self-taught Red Teamer, Bug Bounty Hunter, Ethical Hacker, and Full Stack Developer. I'm dedicated to continuous learning and improving my skills.
+I'm a passionate Red Teamer, Bug Bounty Hunter, Ethical Hacker, and Full Stack Developer. I'm dedicated to continuous learning and improving my skills and sharing everything i learn.
+
+<hr>
+
 
 <!-- GitHub Stats -->
-### GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aryan4lx&show_icons=true&theme=dark)
-
-<!-- Contribution Streak -->
-### Contribution Streak
-![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Aryan4lx&theme=dark)
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<p align=center>
+  <div align=center>
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=390 src="https://github-readme-stats.vercel.app/api?username=Aryan4lx&theme=blue-green" alt="zumrudu-anka" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="right" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Aryan4lx&theme=blue-green" />
+    </a>
+  </div>
+  <br><br><br><br><br><br><br><br><br>
+  <div align=center>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan4lx&theme=blue-green" />
+    </a>
+  </div>
+  <br>
+</p>
 
 <div align=center>
 <img src="https://github-profile-trophy.vercel.app/?username=Aryan4lx&theme=tokyonight&no-frame=true&row=1&&margin-w=30&no-bg=true">

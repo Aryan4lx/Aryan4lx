@@ -90,9 +90,7 @@ I'm a passionate Red Teamer, Bug Bounty Hunter, Ethical Hacker, and Full Stack D
 <table>
   <tr>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="![html5-color](https://github.com/Aryan4lx/Aryan4lx/assets/57567000/2c4fcf1c-bf41-4263-bdc8-3cc5b05c48c4)" width="48" height="48" alt="HTML5" />
-      </a>
+       ![html5-color](https://github.com/Aryan4lx/Aryan4lx/assets/57567000/2c4fcf1c-bf41-4263-bdc8-3cc5b05c48c4)
       <br>HTML5
     </td>
     <td align="center" width="96">
@@ -244,7 +242,7 @@ I'm a passionate Red Teamer, Bug Bounty Hunter, Ethical Hacker, and Full Stack D
       <br>Npm
     </td>
     <td align="center" width="96">
-        <img src= "![protonmail-color](https://github.com/Aryan4lx/Aryan4lx/assets/57567000/3e7b9175-652c-4d1d-a14b-a548a40f5885)" width="80" height="80" alt="npm" />
+        <img src= "![protonmail-color](https://github.com/Aryan4lx/Aryan4lx/assets/57567000/3e7b9175-652c-4d1d-a14b-a548a40f5885)" width="80" height="80" alt="protonmail" />
       <br>Proton Mail
     </td>
     <td align="center" width="96">

@@ -15,49 +15,49 @@
       <br>HTML5
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
+      <a href="/img/css3-color.svg" target="_blank" rel="noopener noreferrer">
         <img src="/img/css3-color.svg" width="48" height="48" alt="CSS3" />
       </a>
       <br>CSS3
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
+      <a href="/img/javascript-color.svg" target="_blank" rel="noopener noreferrer">
         <img src="/img/javascript-color.svg" width="48" height="48" alt="Javascript" />
       </a>
       <br>Javascript
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
+      <a href="/img/nodedotjs-color.svg" target="_blank" rel="noopener noreferrer">
         <img src="/img/nodedotjs-color.svg" width="80" height="80" alt="Nodejs" />
       </a>
       <br>Node.js
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
+      <a href="/img/php-color.svg" target="_blank" rel="noopener noreferrer">
         <img src="/img/php-color.svg" width="48" height="48" alt="php" />
       </a>
       <br>PHP
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
+      <a href="/img/go-color.svg" target="_blank" rel="noopener noreferrer">
         <img src="/img/go-color.svg" width="48" height="48" alt="Go" />
       </a>
       <br>Go
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech" >
+      <a href="/img/mysql-color.svg" target="_blank" rel="noopener noreferrer">
         <img src="/img/mysql-color.svg" width="48" height="48" alt="mysql" />
       </a>
       <br>Mysql
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
+      <a href="/img/mongodb-color.svg" target="_blank" rel="noopener noreferrer">
         <img src="/img/mongodb-color.svg" width="48" height="48" alt="mongodb" />
       </a>
       <br>MongoDB
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
+      <a href="/img/mongoose-color.svg" target="_blank" rel="noopener noreferrer">
         <img src="/img/mongoose-color.svg" width="48" height="48" alt="mongoose" />
       </a>
       <br>Mongoose
@@ -65,55 +65,55 @@
   </tr>
   <tr>
     <td align="center" width="96"> 
-      <a href="#macropower-tech" >
+      <a href="/img/gnubash-color.svg" target="_blank" rel="noopener noreferrer">
         <img src="/img/gnubash-color.svg" width="48" height="48" alt="Bash" />
       </a>
       <br>Bash
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech" >
+      <a href="/img/visualstudiocode-color.svg" target="_blank" rel="noopener noreferrer">
         <img src="/img/visualstudiocode-color.svg" width="48" height="48" alt="visualstudiocode" />
       </a>
       <br>Visual Studio Code
     </td>
     <td align="center"  width="96">
-      <a href="#macropower-tech">
+      <a href="/img/python-color.svg" target="_blank" rel="noopener noreferrer">
         <img src="/img/python-color.svg" width="48" height="48" alt="python" />
       </a>
       <br>Python
     </td>
     <td align="center"  width="96">
-      <a href="#macropower-tech">
+      <a href="/img/react-color.svg" target="_blank" rel="noopener noreferrer">
         <img src="/img/react-color.svg" width="48" height="48" alt="reactjs" />
       </a>
       <br>React.js
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
+      <a href="/img/c-color.svg" target="_blank" rel="noopener noreferrer">
         <img src="/img/c-color.svg" width="48" height="48" alt="c" />
       </a>
       <br>C
     </td>
     <td align="center"  width="96">
-      <a href="#macropower-tech">
+      <a href="/img/cplusplus-color.svg" target="_blank" rel="noopener noreferrer">
         <img src="/img/cplusplus-color.svg" width="48" height="48" alt="c++" />
       </a>
       <br>C++
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech" >
+      <a href="/img/markdown-color.svg" target="_blank" rel="noopener noreferrer">
         <img src="/img/markdown-color.svg" width="48" height="48" alt="markdown" />
       </a>
       <br>Markdown
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech" >
+      <a href="/img/git-color.svg" target="_blank" rel="noopener noreferrer">
         <img src="/img/git-color.svg" width="48" height="48" alt="git" />
       </a>
       <br>Git
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech" >
+      <a href="/img/github-color.svg" target="_blank" rel="noopener noreferrer">
         <img src="/img/github-color.svg" width="48" height="48" alt="github" />
       </a>
       <br>Github
@@ -121,53 +121,54 @@
   </tr>
   <tr>
     <td align="center" width="96">
-      <a href="#macropower-tech">
+      <a href="/img/adobepremierepro-color.svg" target="_blank" rel="noopener noreferrer">
         <img src="/img/adobepremierepro-color.svg" width="48" height="48" alt="adobepremierepro" />
       </a>
       <br>Adobe Premiere Pro
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
+      <a href="/img/adobephotoshop-color.svg" target="_blank" rel="noopener noreferrer">
         <img src="/img/adobephotoshop-color.svg" width="48" height="48" alt="adobephotoshop" />
       </a>
       <br>Adobe Photoshop
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
+      <a href="/img/kalilinux-color.svg" target="_blank" rel="noopener noreferrer">
         <img src="/img/kalilinux-color.svg" width="48" height="48" alt="kalilinux" />
       </a>
       <br>Kali Linux
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
+      <a href="/img/npm-color.svg" target="_blank" rel="noopener noreferrer">
         <img src="/img/npm-color.svg" width="80" height="80" alt="npm" />
       </a>
       <br>Npm
     </td>
     <td align="center" width="96">
-        <img src= "/img/protonmail-color.svg" width="80" height="80" alt="protonmail" />
-      <br>Proton Mail
+      <a href="/img/virtualbox-color.svg" target="_blank" rel="noopener noreferrer">
+        <img src= "/img/virtualbox-color.svg" width="80" height="80" alt="virtualbox" />
+      <br>Virtual box
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
+      <a href="/img/torproject-color.svg" target="_blank" rel="noopener noreferrer">
         <img src="/img/torproject-color.svg" width="48" height="48" alt="torproject" />
       </a>
       <br>Tor
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech" >
+      <a href="/img/codeium-color.svg" target="_blank" rel="noopener noreferrer">
         <img src="/img/codeium-color.svg" width="48" height="48" alt="codeium" />
       </a>
       <br>Codeium
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
+      <a href="/img/powershell-color.svg" target="_blank" rel="noopener noreferrer">
         <img src="/img/powershell-color.svg" width="48" height="48" alt="powershell" />
       </a>
       <br>Powershell
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
+      <a href="/img/tails-color.svg" target="_blank" rel="noopener noreferrer">
         <img src="/img/tails-color.svg" width="48" height="48" alt="tails" />
       </a>
       <br>Tails

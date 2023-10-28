@@ -9,7 +9,7 @@
 <table>
   <tr>
     <td align="center" width="96">
-     <a href="#macropower-tech">
+     <a href="/img/html5-color.svg" target="_blank" rel="noopener noreferrer">
       <img src="/img/html5-color.svg" width="48" height="48" alt="html5" />
      </a>
       <br>HTML5

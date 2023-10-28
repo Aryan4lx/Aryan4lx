@@ -245,8 +245,7 @@ I'm a passionate Red Teamer, Bug Bounty Hunter, Ethical Hacker, and Full Stack D
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="![protonmail-color](https://github.com/Aryan4lx/Aryan4lx/assets/57567000/3e7b9175-652c-4d1d-a14b-a548a40f5885)
-" width="48" height="48" alt="protonmail" />
+        ![protonmail-color](https://github.com/Aryan4lx/Aryan4lx/assets/57567000/3e7b9175-652c-4d1d-a14b-a548a40f5885)
       </a>
       <br>Proton Mail
     </td>

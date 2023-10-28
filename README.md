@@ -147,6 +147,7 @@
     <td align="center" width="96">
       <a href="/img/virtualbox-color.svg" target="_blank" rel="noopener noreferrer">
         <img src= "/img/virtualbox-color.svg" width="80" height="80" alt="virtualbox" />
+      </a>
       <br>Virtual box
     </td>
     <td align="center" width="96">
